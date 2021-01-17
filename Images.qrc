@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/myImage"/>
+    <qresource prefix="/">
+        <file>Images/green_body.png</file>
+        <file>Images/green_head_down.png</file>
+        <file>Images/green_head_left.png</file>
+        <file>Images/green_head_right.png</file>
+        <file>Images/green_head_up.png</file>
+        <file>Images/red_body.png</file>
+        <file>Images/red_head_down.png</file>
+        <file>Images/red_head_left.png</file>
+        <file>Images/red_head_right.png</file>
+        <file>Images/red_head_up.png</file>
+        <file>Images/green_tail_down.png</file>
+        <file>Images/green_tail_left.png</file>
+        <file>Images/green_tail_right.png</file>
+        <file>Images/green_tail_up.png</file>
+        <file>Images/red_tail_down.png</file>
+        <file>Images/red_tail_left.png</file>
+        <file>Images/red_tail_right.png</file>
+        <file>Images/red_tail_up.png</file>
+        <file>Images/background.png</file>
+        <file>Images/wall.png</file>
+        <file>Images/food_addHP.png</file>
+        <file>Images/food_doubleScore.png</file>
+        <file>Images/food_ordinary.png</file>
+        <file>Images/food_slowDown.png</file>
+        <file>Images/food_speedUp.png</file>
+        <file>Images/widget_exit.png</file>
+        <file>Images/widget_start.png</file>
+        <file>Images/widget_pause.png</file>
+        <file>Images/widget_save.png</file>
+        <file>Images/widget_continue.png</file>
+        <file>Images/background2.png</file>
+        <file>Images/wallLight.png</file>
+        <file>Images/widget_auto.png</file>
+        <file>Images/widget_auto2.png</file>
+        <file>Images/widget_restart.png</file>
+    </qresource>
+</RCC>
